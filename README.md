@@ -1,5 +1,7 @@
 # Maps with TypeScript
 
+![Maps Screenshot](assets/images/maps-screenshot.png)
+
 To run
 
 ```
